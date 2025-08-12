@@ -1,0 +1,117 @@
+2025-08-11 05:02:46,031 - config - INFO - Loaded configuration from config.ini
+2025-08-11 05:02:46,031 - config - INFO - Configuration validated - JID: your_bot@jabber.ru, Server: jabber.ru:5222
+2025-08-11 05:02:46,208 - bot - INFO - Bot initialized
+2025-08-11 05:02:46,208 - __main__ - INFO - Starting XMPP Bot...
+2025-08-11 05:02:46,208 - bot - INFO - Connecting to jabber.ru...
+2025-08-11 05:02:46,208 - bot - ERROR - Connection attempt 1 failed: ClientXMPP.connect() got an unexpected keyword argument 'address'
+2025-08-11 05:02:46,208 - bot - INFO - Retrying in 10 seconds...
+2025-08-11 05:02:56,218 - bot - ERROR - Connection attempt 2 failed: ClientXMPP.connect() got an unexpected keyword argument 'address'
+2025-08-11 05:02:56,218 - bot - INFO - Retrying in 10 seconds...
+2025-08-11 05:03:03,243 - config - INFO - Loaded configuration from config.ini
+2025-08-11 05:03:03,244 - config - INFO - Configuration validated - JID: your_bot@jabber.ru, Server: jabber.ru:5222
+2025-08-11 05:03:03,293 - bot - INFO - Bot initialized
+2025-08-11 05:03:03,293 - __main__ - INFO - Starting XMPP Bot...
+2025-08-11 05:03:03,293 - bot - INFO - Connecting to jabber.ru...
+2025-08-11 05:03:03,293 - bot - ERROR - Connection attempt 1 failed: ClientXMPP.connect() got an unexpected keyword argument 'address'
+2025-08-11 05:03:03,294 - bot - INFO - Retrying in 10 seconds...
+2025-08-11 05:03:06,231 - bot - ERROR - Connection attempt 3 failed: ClientXMPP.connect() got an unexpected keyword argument 'address'
+2025-08-11 05:03:06,231 - bot - ERROR - Max retries reached, giving up
+2025-08-11 05:03:06,231 - __main__ - ERROR - Fatal error: ClientXMPP.connect() got an unexpected keyword argument 'address'
+2025-08-11 05:03:13,303 - bot - ERROR - Connection attempt 2 failed: ClientXMPP.connect() got an unexpected keyword argument 'address'
+2025-08-11 05:03:13,303 - bot - INFO - Retrying in 10 seconds...
+2025-08-11 05:03:23,313 - bot - ERROR - Connection attempt 3 failed: ClientXMPP.connect() got an unexpected keyword argument 'address'
+2025-08-11 05:03:23,313 - bot - ERROR - Max retries reached, giving up
+2025-08-11 05:03:23,313 - __main__ - ERROR - Fatal error: ClientXMPP.connect() got an unexpected keyword argument 'address'
+2025-08-11 05:04:19,873 - config - INFO - Loaded configuration from config.ini
+2025-08-11 05:04:19,874 - config - INFO - Configuration validated - JID: your_bot@jabber.ru, Server: jabber.ru:5222
+2025-08-11 05:04:19,885 - config - INFO - Loaded configuration from config.ini
+2025-08-11 05:04:19,886 - config - INFO - Configuration validated - JID: your_bot@jabber.ru, Server: jabber.ru:5222
+2025-08-11 05:04:19,946 - bot - INFO - Bot initialized
+2025-08-11 05:04:19,946 - bot - INFO - Bot initialized
+2025-08-11 05:04:19,946 - __main__ - INFO - Starting XMPP Bot...
+2025-08-11 05:04:19,946 - bot - INFO - Connecting to jabber.ru...
+2025-08-11 05:04:19,946 - bot - INFO - Connection initiated successfully
+2025-08-11 05:04:19,946 - __main__ - INFO - Starting XMPP Bot...
+2025-08-11 05:04:19,947 - bot - INFO - Connecting to jabber.ru...
+2025-08-11 05:04:19,947 - bot - INFO - Connection initiated successfully
+2025-08-11 05:04:30,174 - config - INFO - Loaded configuration from config.ini
+2025-08-11 05:04:30,174 - config - INFO - Configuration validated - JID: your_bot@jabber.ru, Server: jabber.ru:5222
+2025-08-11 05:04:30,210 - bot - INFO - Bot initialized
+2025-08-11 05:04:30,211 - __main__ - INFO - Starting XMPP Bot...
+2025-08-11 05:04:30,211 - bot - INFO - Connecting to jabber.ru...
+2025-08-11 05:04:30,211 - bot - INFO - Connection initiated successfully
+2025-08-11 05:04:30,211 - bot - ERROR - Connection failed: 'JabberBot' object has no attribute 'process'
+2025-08-11 05:04:30,211 - __main__ - ERROR - Fatal error: 'JabberBot' object has no attribute 'process'
+2025-08-11 05:13:55,400 - config - INFO - Loaded configuration from config.ini
+2025-08-11 05:13:55,401 - config - INFO - Configuration validated - JID: your_bot@jabber.ru, Server: jabber.ru:5222
+2025-08-11 05:13:55,490 - bot - INFO - Bot initialized
+2025-08-11 05:13:55,492 - __main__ - INFO - Starting XMPP Bot...
+2025-08-11 05:13:55,493 - bot - INFO - Connecting to jabber.ru...
+2025-08-11 05:13:55,493 - bot - INFO - Connection established successfully
+2025-08-11 05:13:58,410 - slixmpp.features.feature_mechanisms.mechanisms - INFO - Authentication failed: not-authorized
+2025-08-11 05:13:58,708 - slixmpp.features.feature_mechanisms.mechanisms - INFO - Authentication failed: not-authorized
+2025-08-11 05:13:58,708 - slixmpp.util.sasl.client - INFO - SASL: X-OAUTH2: Missing credential: access_token
+2025-08-11 05:13:58,856 - slixmpp.features.feature_mechanisms.mechanisms - INFO - Authentication failed: not-authorized
+2025-08-11 05:13:58,857 - slixmpp.util.sasl.client - INFO - SASL: X-OAUTH2: Missing credential: access_token
+2025-08-11 05:13:58,857 - slixmpp.features.feature_mechanisms.mechanisms - ERROR - No appropriate login method.
+2025-08-11 05:13:59,005 - slixmpp.xmlstream.xmlstream - INFO - connection_lost: (None,)
+2025-08-11 05:13:59,006 - bot - WARNING - Disconnected from server
+2025-08-11 05:13:59,006 - scheduler - INFO - Message scheduler stopped
+2025-08-11 05:14:04,007 - bot - INFO - Attempting to reconnect...
+2025-08-11 05:21:08,259 - root - INFO - Received signal 15, shutting down...
+2025-08-11 05:21:13,672 - config - INFO - Loaded configuration from config.ini
+2025-08-11 05:21:13,673 - config - INFO - Loaded configuration from config.ini
+2025-08-11 05:21:13,674 - config - INFO - Configuration validated - JID: windzz@jabber.ru, Server: jabber.ru:5222
+2025-08-11 05:21:13,679 - config - INFO - Configuration validated - JID: windzz@jabber.ru, Server: jabber.ru:5222
+2025-08-11 05:21:13,764 - bot - INFO - Bot initialized
+2025-08-11 05:21:13,766 - __main__ - INFO - Starting XMPP Bot...
+2025-08-11 05:21:13,766 - bot - INFO - Connecting to jabber.ru...
+2025-08-11 05:21:13,766 - bot - INFO - Connection established successfully
+2025-08-11 05:21:13,766 - bot - INFO - Bot initialized
+2025-08-11 05:21:13,767 - __main__ - INFO - Starting XMPP Bot...
+2025-08-11 05:21:13,767 - bot - INFO - Connecting to jabber.ru...
+2025-08-11 05:21:13,767 - bot - INFO - Connection established successfully
+2025-08-11 05:21:16,240 - slixmpp.features.feature_bind.bind - INFO - JID set to: windzz@jabber.ru/1779138630925426063
+2025-08-11 05:21:16,243 - bot - INFO - Session started
+2025-08-11 05:21:16,393 - slixmpp.features.feature_bind.bind - INFO - JID set to: windzz@jabber.ru/11527483304395488862
+2025-08-11 05:21:16,398 - bot - INFO - Session started
+2025-08-11 05:21:16,722 - bot - INFO - Joining room: indonesia@conference.jabber.ru
+2025-08-11 05:21:16,865 - bot - INFO - Joining room: indonesia@conference.jabber.ru
+2025-08-11 05:21:18,728 - bot - INFO - Joining room: indochat@conference.jabber.ru
+2025-08-11 05:21:18,871 - bot - INFO - Joining room: indochat@conference.jabber.ru
+2025-08-11 05:21:20,729 - scheduler - INFO - Message scheduler started
+2025-08-11 05:21:20,733 - bot - INFO - Bot is now online and ready
+2025-08-11 05:21:20,733 - scheduler - INFO - Next hourly message in 2319 seconds at 13:00
+2025-08-11 05:21:20,872 - scheduler - INFO - Message scheduler started
+2025-08-11 05:21:20,873 - bot - INFO - Bot is now online and ready
+2025-08-11 05:21:20,873 - scheduler - INFO - Next hourly message in 2319 seconds at 13:00
+2025-08-11 05:29:32,680 - root - INFO - Received signal 15, shutting down...
+2025-08-11 05:29:32,681 - scheduler - INFO - Scheduler task cancelled
+2025-08-11 05:29:32,692 - root - INFO - Received signal 15, shutting down...
+2025-08-11 05:29:32,693 - scheduler - INFO - Scheduler task cancelled
+2025-08-12 01:28:43,997 - config - INFO - Loaded configuration from config.ini
+2025-08-12 01:28:43,997 - config - INFO - Loaded configuration from config.ini
+2025-08-12 01:28:43,998 - config - INFO - Configuration validated - JID: windzz@jabber.ru, Server: jabber.ru:5222
+2025-08-12 01:28:43,998 - config - INFO - Configuration validated - JID: windzz@jabber.ru, Server: jabber.ru:5222
+2025-08-12 01:28:44,063 - bot - INFO - Bot initialized
+2025-08-12 01:28:44,063 - bot - INFO - Bot initialized
+2025-08-12 01:28:44,063 - __main__ - INFO - Starting XMPP Bot...
+2025-08-12 01:28:44,063 - __main__ - INFO - Starting XMPP Bot...
+2025-08-12 01:28:44,063 - bot - INFO - Connecting to jabber.ru...
+2025-08-12 01:28:44,063 - bot - INFO - Connecting to jabber.ru...
+2025-08-12 01:28:44,063 - bot - INFO - Connection established successfully
+2025-08-12 01:28:44,063 - bot - INFO - Connection established successfully
+2025-08-12 01:28:46,328 - slixmpp.features.feature_bind.bind - INFO - JID set to: windzz@jabber.ru/17285772841717580222
+2025-08-12 01:28:46,328 - bot - INFO - Session started
+2025-08-12 01:28:46,689 - slixmpp.features.feature_bind.bind - INFO - JID set to: windzz@jabber.ru/1169663366597320109
+2025-08-12 01:28:46,690 - bot - INFO - Session started
+2025-08-12 01:28:46,810 - bot - INFO - Joining room: indonesia@conference.jabber.ru
+2025-08-12 01:28:47,146 - bot - INFO - Joining room: indonesia@conference.jabber.ru
+2025-08-12 01:28:48,811 - bot - INFO - Joining room: indochat@conference.jabber.ru
+2025-08-12 01:28:49,148 - bot - INFO - Joining room: indochat@conference.jabber.ru
+2025-08-12 01:28:50,812 - scheduler - INFO - Message scheduler started
+2025-08-12 01:28:50,813 - bot - INFO - Bot is now online and ready
+2025-08-12 01:28:50,813 - scheduler - INFO - Next hourly message in 1869 seconds at 09:00
+2025-08-12 01:28:51,149 - scheduler - INFO - Message scheduler started
+2025-08-12 01:28:51,149 - bot - INFO - Bot is now online and ready
+2025-08-12 01:28:51,149 - scheduler - INFO - Next hourly message in 1869 seconds at 09:00
